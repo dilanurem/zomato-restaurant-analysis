@@ -39,6 +39,11 @@ gerçek bir veri seti üzerinde analiz yapmayı hedefledim.
 ## Temel Bulgular
 - En yüksek güven endeksine sahip restoran: **Jimis Burger**
 - Teslimatı en çok geliştirmesi gereken: **Pizza Ricotta**
+
+EK OLARAK : 🤝 Teşekkür
+Bu projeyi Claude (Anthropic) ile birlikte geliştirdim. 
+Kod yazmayı değil, düşünmeyi öğretti. Balık vermedi, 
+balık tutmayı öğretti. 🎣
 - En büyük pazar: **Jaipur**
 - Çok oy ≠ yüksek puan (Domino's vs Natural Ice Cream)
 
